@@ -1,2 +1,3 @@
 # RubyCourse2023
-curso de RUBY en 2023
+RUBY course 2023
+first lesson is about learning RUBY sintax

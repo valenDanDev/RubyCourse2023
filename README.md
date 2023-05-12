@@ -1,4 +1,5 @@
-# RubyCourse2023
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/devicon@2.14.0/devicon.min.css">
+# RubyCourse2023 <i class="devicon-ruby-plain"></i>
 RUBY course 2023
 first lesson is about learning RUBY sintax
 ////////////////////////////////////////////////////////////////////////////////////////////////

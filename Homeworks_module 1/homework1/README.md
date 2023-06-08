@@ -69,3 +69,6 @@ It returns a new string with the first character capitalized and the remaining c
 
    The length method is used to determine the length (number of characters) of a string.
 It returns an integer that represents the length of the string.
+_______________________
+
+Return to  :arrow_right: [Home section](../../README.md)

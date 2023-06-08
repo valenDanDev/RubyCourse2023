@@ -50,7 +50,7 @@ They can be accessed within the scope of the class or module without the need fo
     *  A rectangle
     *  A trapezium
   
-    >The code is here [:mag_right:](homework1.rb)
+    >The code is here [Shape :mag_right:](homework1.rb)
 
 4. A string is an object from the String class. What are the methods reverse,
 capitalize, and length for?

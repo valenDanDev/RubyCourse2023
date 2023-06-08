@@ -1,17 +1,4 @@
-#this is the code section of homework #2
-popular_domains = [
-  "google.com",
-  "googleapis.com",
-  "gstatic.com",
-  "facebook.com",
-  "whatsapp.net",
-  "microsoft.com",
-  "gvt2.com",
-  "doubleclick.net",
-  "googlevideo.com",
-  "tiktokcdn"
-]
-
+#departments colombia
 colombia_departments = {
   "Amazonas" => "Leticia",
   "Antioquia" => "Medellín",
@@ -47,14 +34,4 @@ colombia_departments = {
   "Vichada" => "Puerto Carreño"
 }
 
-colombia_autonomous_systems = {
-  "AS3816" => "COLOMBIA TELECOMUNICACIONES S.A. ESP",
-  "AS13489" => "EPM Telecomunicaciones S.A. E.S.P.",
-  "AS10620" => "Telmex Colombia S.A.",
-  "AS19429" => "ETB-Colombia",
-  "AS27831" => "Colombia Movil"
-}
-
-puts "Popular Domains in Colombia: #{popular_domains}"
 puts "\nDepartments of Colombia: #{colombia_departments}"
-puts "\nTop Autonomous systems in Colombia: #{colombia_autonomous_systems}"

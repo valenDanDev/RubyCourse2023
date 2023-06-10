@@ -8,7 +8,7 @@ you’d like to include.
 4. Make the new class able to have many courses as an attribute.
 5. Test the classes creating different objects in different scenarios.
 
-    >The code is here [ homework6 :mag_right:](###)
+    >The code is here [ Student subclass :mag_right:](Subclasses.rb)
 ________________________
 
 Return to  :arrow_right: [Home section](../../README.md)
